@@ -1,4 +1,4 @@
-Obisidian vault for X3D knowledge base and geeneral art purposes. This resource is intended to be open-source and perpetual. Submissions are encouraged from anyone.
+Obisidian vault for X3D knowledge base and general art purposes. This resource is intended to be open-source and perpetual. Submissions are encouraged from anyone.
 
 ### Start here:
 
