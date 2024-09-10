@@ -197,7 +197,7 @@ Final project proposal updates due.
 Bring in a playblast of your full animation.  
 
 ## <u>Week 13 – November 19th   </u> 
-**THANKSGIVING BREAK – NO CLASS**  
+TBD (Probably studio time)
 
 ## <u>Week 14 – November 26th   </u> 
 Studio time, individual discussion, and TBD screenings.  
