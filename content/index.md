@@ -32,3 +32,10 @@ Obisidian vault for X3D knowledge base and general art purposes. This resource i
 - [WGPU](software/shading/wgpu/WGPU.md)
 
 # Contribution Guide
+Things you'll need:
+
+1. [Github Account](https://github.com/signup)
+2. A [text editor](content/software/Text%20Editors) of your choice
+
+Optional:
+1. [Obsidian](https://obsidian.md/)
