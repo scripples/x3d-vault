@@ -1,0 +1,11 @@
+- [Ed Atkins](content/artists/Ed%20Atkins)
+- [La Turbo Avedon](content/artists/La%20Turbo%20Avedon)
+- [Gero Doll](content/artists/Gero%20Doll)
+- [Claudia Hart](content/artists/Claudia%20Hart)
+- [Kim Laughton]
+- [Jonathan Mongahan]
+- [Eva Papamargariti]
+- [Pussykrew]
+- [Jon Rafman]
+- [Sabrina Ratte]
+- [Team Rolfes]

@@ -1,0 +1,1 @@
+https://www.gladstonegallery.com/artist/ed-atkins/biography
