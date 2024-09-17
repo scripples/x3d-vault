@@ -11,3 +11,5 @@ All Megascans will be free until the end of 2024 under Fab’s Standard License.
 [Quixel](https://quixel.com/) - Subscription + some free assets with plugins for use in Unreal Engine, Maya, Houdini, and probably Blender directly. Migrating to FAB in October 2024.
 
 [Fab](https://www.fab.com/) - Epic (maker of Unreal Engine) marketplace for assets, which both Sketchfab and Quixel are migrating to. Marketplace + asset subscription service w/ integrated plugin for Maya + Houdini
+
+#assets
