@@ -9,3 +9,5 @@
 [Class 1 Recap - Project Management, navigation, selection basics, creating a sweep](https://www.youtube.com/watch?v=A_H_Ymx4E-4&list=PLmxfJ2-u3DStlfsxesbWTUPF95WIe5xLu&index=1)
 
 [Class 2 Recap - Camera + Light + Material Basics,  Assign a texture to a light dome](https://www.youtube.com/watch?v=LPkPBxt8Szg&list=PLmxfJ2-u3DStlfsxesbWTUPF95WIe5xLu&index=2)
+
+[Class 3 Recap - Working with Imported 3D Models](https://youtu.be/fLkGTI3Q8h0)
