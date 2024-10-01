@@ -1,3 +1,5 @@
-Maya stuff goes here.
+Partial index of Maya-related resources.
+
+
 
 #maya
