@@ -1,5 +1,5 @@
 Partial index of Maya-related resources.
 
-[modeling](./tutorials/Modeling)
-
+[Modeling](./tutorials/Modeling)
+[Animation](tutorials/Animation)
 #maya
