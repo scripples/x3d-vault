@@ -1,5 +1,8 @@
 Obisidian vault for X3D knowledge base and general art purposes. This resource is intended to be open-source and perpetual. Submissions are encouraged from anyone.
 
+## Quick Links
+- [IX3D 2024 Resources](content/course%20materials/2024/2024)
+
 ### Start here:
 
 - [[#Contribution Guide]]
@@ -15,7 +18,7 @@ Obisidian vault for X3D knowledge base and general art purposes. This resource i
 - [[3D Assets]]
 
 ### Course Syllabus Archives
-
+	[[2024]]
 
 ### Render Engine Documentation
 
