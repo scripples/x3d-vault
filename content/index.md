@@ -3,7 +3,7 @@ Obisidian vault for X3D knowledge base and general art purposes. This resource i
 ## Quick Links
 - [IX3D 2024 Resources](content/course%20materials/2024/2024)
 
-### Start here:
+- ### Start here:
 
 - [[#Contribution Guide]]
 
