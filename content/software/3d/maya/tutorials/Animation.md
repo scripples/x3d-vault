@@ -13,6 +13,9 @@
 
 [Controlling motion style with the Graph Editor](https://www.youtube.com/watch?v=RQ31vjgJM2c)
 
+## Constraints
+
+[Animating a Parent Constraint](https://www.youtube.com/watch?v=yaRYBgfllq8)
 ## Misc
 [Setting animation framerate](https://www.youtube.com/watch?v=K8AuM5Y96pw)
 
