@@ -18,7 +18,7 @@ Obisidian vault for X3D knowledge base and general art purposes. This resource i
 - [[3D Assets]]
 
 ### Course Syllabus Archives
-	[[2024]]
+- [[2024]]
 
 ### Render Engine Documentation
 
