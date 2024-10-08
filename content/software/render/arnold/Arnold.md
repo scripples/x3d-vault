@@ -1,0 +1,1 @@
+[Arvid Schenider](https://www.youtube.com/channel/UC1KDwEVBlxr4ew7xqLOhu9g) - Great resource for rendering in arnold, deep-dive. Go back for Maya + Arnold tutorials, though the general principles for Arnold apply anywhere the render engine is used.
