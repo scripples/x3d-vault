@@ -1,11 +1,12 @@
 Obisidian vault for X3D knowledge base and general art purposes. This resource is intended to be open-source and perpetual. Submissions are encouraged from anyone.
 
 ## Quick Links
-- [IX3D 2024 Resources](content/course%20materials/2024/2024)
+- [IX3D 2024 Resources](content/course%20materials/2024/index.md)
 
-- ### Start here:
+- [[Where to Get 3D Assets]]
+- [Learning Resources](resources/Learning%20Resources)
 
-- [[#Contribution Guide]]
+- [[#Contributing To This Repo]]
 
 ### Software-specific:
 
@@ -14,11 +15,8 @@ Obisidian vault for X3D knowledge base and general art purposes. This resource i
 - [Houdini](software/3d/houdini/Houdini.md)
 - [Cinema 4D](software/3d/cinema4d/C4D.md)
 
-### Free + Paid Asset Sources
-- [[3D Assets]]
-
 ### Course Syllabus Archives
-- [[2024]]
+- [2024](content/course materials/2024/index)
 
 ### Render Engine Documentation
 

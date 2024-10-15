@@ -10,10 +10,10 @@ A "Cookbook" for various useful Maya micro-projects.
 
 ### Tutorials Index
 
-[Modeling](./tutorials/Modeling)
+[Modeling](tutorials/Modeling)
 
 [Animation](tutorials/Animation)
 
-[[Rendering]]
+[Rendering](tutorials/Rendering)
 
 #maya
