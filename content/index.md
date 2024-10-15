@@ -16,7 +16,7 @@ Obisidian vault for X3D knowledge base and general art purposes. This resource i
 - [Cinema 4D](software/3d/cinema4d/C4D.md)
 
 ### Course Syllabus Archives
-- [2024](content/course materials/2024/index)
+- [2024](content/course%20materials/2024/index)
 
 ### Render Engine Documentation
 
